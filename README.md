@@ -13,7 +13,6 @@ Issues arose in both phase 1 and 2, where there were many duplicates. This is du
   ) tmp WHERE rn = 1
   ORDER BY emp_no;
 
-    - In your final paragraph, share the results of your analysis and discuss the data that you’ve generated. Have you identified any limitations to the analysis? What next steps would you recommend?
     
-For phase 1, a total of 33,118 employees will be retiring soon. These employees come from a total of 7 different job titles which are: Assistant Engineer, Engineer, Manager, Senior Engineer, Senior Staff, Staff, Technique Leader. For phase 2, a total of 1,549 employees are eligible to participate in the mentorship program.
-A limitation to this analysis can be how the information was entered, there could have been a mistake made by the HR Department when they input some information correctly, such as date of birth, department number/name, etc. A wrong date of birth could have resulted in an additional employee being counted as retiring soon when they could actually have a year or two left to hit that mark.
+    
+For phase 1, a total of 33,118 employees will be retiring soon. These employees come from a total of 7 different job titles which are: Assistant Engineer, Engineer, Manager, Senior Engineer, Senior Staff, Staff, Technique Leader. For phase 2, a total of 1,549 employees are eligible to participate in the mentorship program. Now that doesn't mean that everyone will participate but it will give a decent sized amount of employees the opportunity to help shape the future of the company by mentoring newhires. A limitation to this analysis can be how the information was entered, there could have been a mistake made by the HR Department when they input some information correctly, such as date of birth, department number/name, etc. A wrong date of birth could have resulted in an additional employee being counted as retiring soon when they could actually have a year or two left to hit that mark.
